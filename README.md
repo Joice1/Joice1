@@ -46,8 +46,8 @@ Apaixonada por tecnologia e boas práticas de desenvolvimento, sempre buscando s
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [**AgendaApi**](https://github.com/Joice1/AgendaApi) | Sistema Web para gerenciamento de tarefas, eventos e compromissos, seguindo boas práticas de arquitetura e organização de código. | Java, Spring Boot, PostgreSQL, Swagger, Docker |
+| [**AgendaApi-Frontend**](https://github.com/Joice1/AgendaApi-Frontend) | Frontend feito para a AgendaApi. | Angular, Boostrap |
 | [**Springboot-contatos-api**](https://github.com/Joice1/Springboot-contatos-api) | API REST para gerenciamento de contatos, construída em Spring Boot. | Java, Spring Boot, REST API |
-| [**controleDefuncionario**](https://github.com/Joice1/controleDefuncionario) | Aplicação Java local para cadastro de funcionários utilizando MySQL. | Java, MySQL |
 
 ---
 
