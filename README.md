@@ -10,8 +10,8 @@ Apaixonada por tecnologia e boas práticas de desenvolvimento, sempre buscando s
 ---
 
 ## 🎓 Formação Acadêmica
-_ **Inglês Intermediário (em andamento)
-- **Espanhol Intermediário (em andamento)
+- **Inglês Intermediário (em andamento)** 
+- **Espanhol Intermediário (em andamento)**
 - **Curso Técnico em Informática** — *Estácio*  
 - **Formação Java Web Developer (FullStack)** — *COTI Informática* (em andamento)
 
